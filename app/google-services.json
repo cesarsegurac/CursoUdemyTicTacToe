@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "310762601184",
+    "firebase_url": "https://plasma-circle-176606.firebaseio.com",
+    "project_id": "plasma-circle-176606",
+    "storage_bucket": "plasma-circle-176606.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310762601184:android:c4115c9e142d617f71ee85",
+        "android_client_info": {
+          "package_name": "com.cursoudemy.tictactoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310762601184-e51qnhh8tltf2mi9ab9evkn7p9b53chg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cursoudemy.tictactoe",
+            "certificate_hash": "adce49b4fda6e65fa0a3cf55a9d501afa8b1a650"
+          }
+        },
+        {
+          "client_id": "310762601184-u27uolkoq0pitqd2mud3c4f58mq0b2ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1XQ6PyYa9S6mOv3-MRIbYgrDyBNL63EM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310762601184-u27uolkoq0pitqd2mud3c4f58mq0b2ba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
